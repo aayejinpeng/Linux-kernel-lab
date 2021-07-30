@@ -1,0 +1,1 @@
+cmd_/home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/6-list-sync/modules.order := {   echo /home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/6-list-sync/list-sync.ko; :; } | awk '!x[$$0]++' - > /home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/6-list-sync/modules.order
