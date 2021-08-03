@@ -1,1 +1,0 @@
-cmd_/home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/4-list/modules.order := {   echo /home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/4-list/list.ko; :; } | awk '!x[$$0]++' - > /home/yjp/mylab/linux-kernel-lab/linux/tools/labs/skels/./kernel_api/4-list/modules.order
